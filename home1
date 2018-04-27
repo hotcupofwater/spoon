@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html>
+<title>Art Museum</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+.bgimg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('/w3images/profile_girl.jpg');
+    min-height: 100%;
+}
+</style>
+<body>
+
+
+
+<!-- Page Content -->
+<div class="w3-main w3-padding-large" style="margin-left:40%">
+
+  
+  <!-- Header -->
+  <header class="w3-container w3-center" style="padding:128px 16px" id="home">
+    <h1 class="w3-jumbo"><b>MS PAINT MUSEUM</b></h1>
+    <p>A collection of digital masterpieces.</p>
+   
+  </header>
+  
+  <!-- About Section -->
+  <div class="w3-content w3-justify w3-text-grey w3-padding-32" id="about">
+    <h2>About</h2>
+    <hr class="w3-opacity">
+    <p>The collection of the MS Paint Museum was first established in the twentyfirst century as the private collection of Alex Mensah. One of the works of art he created was the now famous Kentucky Fried Jews painting. The collection grew steadily thanks to the creative and awe-inspiring skill of the artist. In 2018 the MS Paint Museum became an internet art museum and the private collection opened to the public.
+ The museum will eventually be ome to a collection of over one million works of art, of which about 35 are on display. The museum has a diverse collection ranging from the Antiquity up to the mid-nineteenth century. Some of the most famous works of art in the museum are the "Benji", the "Borchehead", the "Face of Pride", and of course The "Kentucky Fried Jews".
+</p>
+   
+
+
+<p><a href="index.html">next</a>
+
+
+
+</body>
+</html>
